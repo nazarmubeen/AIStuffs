@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/commons-io-2.5/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/jdom2-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/selenium-java-2.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/tika-app-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/univocity-parsers-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/apache-opennlp-1.6.0/lib/opennlp-tools-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/apache-opennlp-1.6.0/lib/opennlp-uima-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Jars/datascience/javafx-ui-swing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
