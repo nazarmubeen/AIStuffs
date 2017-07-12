@@ -8,7 +8,7 @@ import java.util.Set;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.TrueFileFilter;
 
-public class Test1 {
+public class GettingHierarchyOfFiles {
 
 	public static void main(String[ ] args)
 	{

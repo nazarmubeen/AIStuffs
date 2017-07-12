@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 import org.apache.commons.io.FileUtils;
 
-public class Test2 {
+public class ReadingFileUsingStreams {
 
 	public static void main(String[] args)
 	{
